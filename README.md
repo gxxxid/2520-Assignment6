@@ -23,3 +23,8 @@ Modified the game logic to use the day and lights_on variables to determine the 
 
 The modifications made to the code to allow for user input to control the day/night cycle and toggle the lights on/off:
 	These modifications allow the user to control the day/night cycle and toggle the lights on/off by pressing the 'd' and 'l' keys respectively during the game loop.
+
+
+Members:
+
+Natalia Jauregui
